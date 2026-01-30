@@ -1,0 +1,5 @@
+// Initialize the rooms array and current room index
+rooms = [R_Room_0, G_Room_0, B_Room_0, End_Room];
+current_room_index = 0;
+can_transition = true; // Allow transitions initially
+loop_count = 0; // Initialize loop count
